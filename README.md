@@ -1,0 +1,1 @@
+# snapshot_extension_privacy
